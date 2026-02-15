@@ -12,9 +12,9 @@ const gifStages = [
 const noMessages = [
     "NO",
     "sure jud ka lang? 🤔",
-    "bubub please... 🥺",
-    "if you sayno, mag cry jud ko...",
-    "your bubub will be very sad... 😢",
+    "bubub please 🥺",
+    "if you say no, mag cry jud ko 😠",
+    "your bubub will be very sad 😢",
     "please??? 💔",
     "bubub naman...",
     "final na jud?! 😭",
